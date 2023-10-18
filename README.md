@@ -13,22 +13,6 @@
 
 ## Project description and specification
 
-### Configurable Mechanical Keyboard
-
-**Difficulty: 2 stars**
-
-This project is all about matrix keyboard, which can be a quite interesting and adventurous topic to explore. There is a big community about mechanical keyboard, all the way from the custom firmware to the difference between different springs inside the keyboard switch. It will be a great fun to play around!
-
-As Electrical Engineers, this project mainly focuses on the working mechanism of a keyboard. A keyboard usually has many keys, but our microcontroller has limited pin count. To register many key inputs by using limited IO on a microcontroller could be a challenge, which will be the part that we will focus on.
-
-#### Specification:
-
-- The keyboard should have more than 16 keys (it should have the same amount or more keys than a regular numpad)
-- It should have a polling rate equal to or more than 250Hz
-- It should resolve the input conflict while multiple keys are pressed at the same time
-- It should have a indicator and a layer switch function. Using numpad as an example, it should have one `num lock` key and performs different function when the `num lock` status is on or off
-- Bonus: Adding a OLED display or a Rotary Encoder will be a **PLUS**, which will make this project from 2 stars to 3 stars with better reward. And over all, *it will be a lot of fun!*
-
 ### Arduino based robotic arm
 
 **Difficulty: 3 stars**
@@ -56,11 +40,28 @@ Drinking water is important to our health. According to [NHS](https://www.nhs.uk
 - It should be able to generate a weekly report based on the water intake
 - It should remind the user to drink water if it detects the user haven't drink any water for 3 hours. The reminder can be a short vibration or a push notification on the app
 
+
+### Configurable Mechanical Keyboard
+
+**Difficulty: 2 stars**
+
+This project is all about matrix keyboard, which can be a quite interesting and adventurous topic to explore. There is a big community about mechanical keyboard, all the way from the custom firmware to the difference between different springs inside the keyboard switch. It will be a great fun to play around!
+
+As Electrical Engineers, this project mainly focuses on the working mechanism of a keyboard. A keyboard usually has many keys, but our microcontroller has limited pin count. To register many key inputs by using limited IO on a microcontroller could be a challenge, which will be the part that we will focus on.
+
+#### Specification:
+
+- The keyboard should have more than 16 keys (it should have the same amount or more keys than a regular numpad)
+- It should have a polling rate equal to or more than 250Hz
+- It should resolve the input conflict while multiple keys are pressed at the same time
+- It should have a indicator and a layer switch function. Using numpad as an example, it should have one `num lock` key and performs different function when the `num lock` status is on or off
+- Bonus: Adding a OLED display or a Rotary Encoder will be a **PLUS**, which will make this project from 2 stars to 3 stars with better reward. And over all, *it will be a lot of fun!*
+
 ### 7-segment Display, Extension
 
 **Difficulty: 1 star**
 
-Make extention of our old 7-segment Display project, here are the specifications:
+Make extention of our old [7-segment Display](https://github.com/Fleming-Society/7-Segment-Display-Project) project, here are the specifications:
 
 - Make a library for controlling the display, it should be a `.h` header file that people can include in their Arduino code
 - It should be a small form factor PCB with programmable USB-C port
@@ -72,3 +73,10 @@ Here are some suggested extension projects you can make:
 - Thermometer to control the frying oil temperature
 - CO2 meter
 - Make a library for rolling numbers, so that it can display longer text like telephone number
+
+# Prizes for the Bounty
+
+**£100 Gift Card / Voucher of your choice for 3 Stars**
+**£50 Gift Card / Voucher of your choice for 2 Stars**
+**£10 Gift Card / Voucher of your choice for 1 Stars**
+**You will be presented in the "Hall of Fame" on our Fleming Society website alongside with your project!**
