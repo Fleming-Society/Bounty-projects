@@ -37,7 +37,7 @@ Drinking water is important to our health. According to [NHS](https://www.nhs.uk
 #### Specification:
 
 - The whole project should be on a PCB in a small form factor, preferably waterproof
-- It should have the accuracy to $\plusmn 10mL$
+- It should have the accuracy to ~10mL
 - It should be able to upload data to a APP or a website, we suggest you to use Blink to connect between ESP32 MCU to phone, you can use other implementation as well
 - It should be able to generate a weekly report based on the water intake
 - It should remind the user to drink water if it detects the user haven't drink any water for 3 hours. The reminder can be a short vibration or a push notification on the app
