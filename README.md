@@ -77,6 +77,16 @@ Here are some suggested extension projects you can make:
 # Prizes for the Bounty
 
 **£100 Gift Card / Voucher of your choice for 3 Stars**
+
 **£50 Gift Card / Voucher of your choice for 2 Stars**
+
 **£10 Gift Card / Voucher of your choice for 1 Stars**
+
 **You will be presented in the "Hall of Fame" on our Fleming Society website alongside with your project!**
+
+# Contact
+
+Need any components for the project? Ask any of our Fleming Society members or email us at flemingsociety@ee.ucl.ac.uk. It is best to provide Farnell and RS link for your components
+
+Finished your project? Ready for your prize and find a place in Fleming Society website? Send us a mail at flemingsociety@ee.ucl.ac.uk and we will get it sorted. 
+
