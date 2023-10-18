@@ -17,7 +17,7 @@
 
 **Difficulty: 2 stars**
 
-This project is all about matrix keyboard, which can be a quite interesting and advanturous topic to explore. There is a big community about mechanical keyboard, all the way from the custom firmware to the difference between different springs inside the keyboard switch. It will be a great fun to play around!
+This project is all about matrix keyboard, which can be a quite interesting and adventurous topic to explore. There is a big community about mechanical keyboard, all the way from the custom firmware to the difference between different springs inside the keyboard switch. It will be a great fun to play around!
 
 As Electrical Engineers, this project mainly focuses on the working mechanism of a keyboard. A keyboard usually has many keys, but our microcontroller has limited pin count. To register many key inputs by using limited IO on a microcontroller could be a challenge, which will be the part that we will focus on.
 
@@ -29,15 +29,18 @@ As Electrical Engineers, this project mainly focuses on the working mechanism of
 - It should have a indicator and a layer switch function. Using numpad as an example, it should have one `num lock` key and performs different function when the `num lock` status is on or off
 - Bonus: Adding a OLED display or a Rotary Encoder will be a **PLUS**, which will make this project from 2 stars to 3 stars with better reward. And over all, *it will be a lot of fun!*
 
-### Arduino based microservo robotic arm
+### Arduino based robotic arm
 
 **Difficulty: 3 stars**
 
-What's cooler than building a robotic arm from scratch! The bounty will be assessed based on its functionality, efficiency and appearance
+What's cooler than building a robotic arm from scratch! The bounty will be assessed based on its functionality, efficiency and appearance.
 
 #### Specification:
 
-- The robotic arm should pick up these five objects: Marble, cloth, water, 3d printed Pikachu and pencil
+- The robotic arm should pick up these five objects: Marble, cloth, water, 3d printed Pikachu and pencil.
+- You may use stepper motors, microservos or regular motors.
+- For the 3D printing, Autodesk Fusion 360 or SolidWorks are recommended.
+- Please read the 'Arduino based microservo arm' documentation in the projects page for reference. Please try not to copy any pre-existing designs.
 
 ### Smart mug matt
 
