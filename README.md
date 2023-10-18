@@ -4,6 +4,7 @@
 
 - Three Stars
   - Smart mug matt
+  - Arduino based microservo robotic arm
 - Two Stars
   - Configurable Mechanical Keyboard
 
@@ -27,6 +28,16 @@ As Electrical Engineers, this project mainly focuses on the working mechanism of
 - It should resolve the input conflict while multiple keys are pressed at the same time
 - It should have a indicator and a layer switch function. Using numpad as an example, it should have one `num lock` key and performs different function when the `num lock` status is on or off
 - Bonus: Adding a OLED display or a Rotary Encoder will be a **PLUS**, which will make this project from 2 stars to 3 stars with better reward. And over all, *it will be a lot of fun!*
+
+### Arduino based microservo robotic arm
+
+**Difficulty: 3 stars**
+
+What's cooler than building a robotic arm from scratch! The bounty will be assessed based on its functionality, efficiency and appearance
+
+#### Specification:
+
+- The robotic arm should pick up these five objects: Marble, cloth, water, 3d printed Pikachu and pencil
 
 ### Smart mug matt
 
