@@ -7,6 +7,7 @@
   - Arduino based microservo robotic arm
 - Two Stars
   - Configurable Mechanical Keyboard
+  - Bicycle alarm system
 
 - One Star
   - 7-segment Display PCB
@@ -39,6 +40,17 @@ Drinking water is important to our health. According to [NHS](https://www.nhs.uk
 - It should be able to upload data to a APP or a website, we suggest you to use Blink to connect between ESP32 MCU to phone, you can use other implementation as well
 - It should be able to generate a weekly report based on the water intake
 - It should remind the user to drink water if it detects the user haven't drink any water for 3 hours. The reminder can be a short vibration or a push notification on the app
+
+### Bicycle alarm system
+
+**Difficulty: 2 stars**
+
+- The whole system should be enclosed in a small 3D printed shell that is easy to attach to the bike frame.
+- It is based on a microcontroller that has bluetooth function
+- It should have battery life longer that 1 week
+- (Optional) It should come with the mobile app (for example, Blynk) that can keep the bike status up to date and push notification when the suspicious activity is detected.
+- It should shock the person who it attempting to steal the bike with **EXTRA BEEFED UP 32V INPUT BUZZER**
+
 
 
 ### Configurable Mechanical Keyboard
