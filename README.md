@@ -86,6 +86,15 @@ Here are some suggested extension projects you can make:
 - CO2 meter
 - Make a library for rolling numbers, so that it can display longer text like telephone number
 
+
+# Project Ideas
+
+### Fencing related project, proposed by Xiangyi (Grace) Tan
+
+### Capacitive touching lamp, by Jeremy Chan
+
+
+
 # Prizes for the Bounty
 
 **£100 Gift Card / Voucher of your choice for 3 Stars**
