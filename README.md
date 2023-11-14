@@ -91,9 +91,15 @@ Here are some suggested extension projects you can make:
 
 ### Fencing related project, proposed by Xiangyi (Grace) Tan
 
+[Reference design website 1](https://www.instructables.com/Arduino-Fencing-Scoring-Apparatus/) 
+
+[Reference design website 2](https://forum.arduino.cc/t/fencing-scoring-machine/149087)
+
+Difficulty haven't been determined yet.
+
 ### Capacitive touching lamp, by Jeremy Chan
 
-
+Waiting for more detailed specifications.
 
 # Prizes for the Bounty
 
