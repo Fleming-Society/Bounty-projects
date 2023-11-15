@@ -89,11 +89,20 @@ Here are some suggested extension projects you can make:
 
 # Project Ideas
 
-### Fencing related project, proposed by Xiangyi (Grace) Tan
+### Fencing Scoring Machine, proposed by Xiangyi (Grace) Tan
 
-[Reference design website 1](https://www.instructables.com/Arduino-Fencing-Scoring-Apparatus/) 
+**Difficulty: 3 stars**
 
-[Reference design website 2](https://forum.arduino.cc/t/fencing-scoring-machine/149087)
+- Has two RGB colour display that can display White, Red, Green and Yellow
+- Has physical button for the referee to choose whether a yellow card or a red card is given
+- Has a timer that can be set up to 3 minutes
+- Has two number display that can display score from 0 to 99
+- Has a button that can determine random draw
+
+Optional functions:
+
+- Remote control (giving cards, random draw)
+- Dashboard display via WiFi or Bluetooth
 
 Difficulty haven't been determined yet.
 
