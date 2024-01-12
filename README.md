@@ -87,7 +87,7 @@ Here are some suggested extension projects you can make:
 - Make a library for rolling numbers, so that it can display longer text like telephone number
 
 
-# Project Ideas
+# Project Ideas 
 
 ### Fencing Scoring Machine, proposed by Xiangyi (Grace) Tan
 
@@ -107,8 +107,30 @@ Optional functions:
 Difficulty haven't been determined yet.
 
 ### Capacitive touching lamp, by Jeremy Chan
+- Capacitive touch controlled lamp that can change the brightness
+- Three level brightness control, long press to turn the lamp on and off
 
-Waiting for more detailed specifications.
+### Bionic arm brace and rehabilitation glove for stroke patients
+
+
+### Smart back light
+- Back light that also acts as the brake light
+- Brake signal get triggered by an IMU sensor
+
+### Smart bin
+- Automatically open the lid when a person comes closes
+- Automatically close the lid when the person moves away
+- **Extra** Automatically wrap the refuse bag when it is filled
+
+### Group cycling gloves
+- Giving a vibration signal to the cyclist behind where to make a turn
+- Signal triggered by tapping the glove or curving the finger
+
+### IOT alarm curtain
+- Lift the curtain when the alarm sound
+- put down the curtain at bettime
+
+
 
 # Prizes for the Bounty
 
@@ -119,6 +141,8 @@ Waiting for more detailed specifications.
 **£10 Gift Card / Voucher of your choice for 1 Stars**
 
 **You will be presented in the "Hall of Fame" on our Fleming Society website alongside with your project!**
+
+**Project ideas getting picked by Qualcomm will have a Qualcomm related prize**
 
 # Contact
 
