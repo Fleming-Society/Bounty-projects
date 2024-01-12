@@ -110,8 +110,9 @@ Difficulty haven't been determined yet.
 - Capacitive touch controlled lamp that can change the brightness
 - Three level brightness control, long press to turn the lamp on and off
 
-### Bionic arm brace and rehabilitation glove for stroke patients
+### Bionic arm brace and rehabilitation glove for stroke patients by Bhavy
 
+More details will be provided later
 
 ### Smart back light
 - Back light that also acts as the brake light
