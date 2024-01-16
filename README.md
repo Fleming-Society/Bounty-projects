@@ -129,7 +129,9 @@ More details will be provided later
 
 ### IOT alarm curtain
 - Lift the curtain when the alarm sound
-- put down the curtain at bettime
+- put down the curtain at bedtime
+
+### Parasidic compensation system for high frequency integrate circuit
 
 
 
